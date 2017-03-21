@@ -2,20 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-DJKLDDDDDDDDDDDDDDDDDDDDDDDD
-DÖLJKdjjd
-sdfsafsadfsadfsad
-safsafsfsafsd
-sfsaasd
-
-
-
-
-
-DDDDDDDDDDDDDDD
-DDDDDDDDDASSSSSS
-ASDFASFSDF
-ASFSAFSFSA
-ASDFASFAS
+1. index.htm
